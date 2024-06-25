@@ -1,0 +1,31 @@
+.heading {
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+    background-color: aqua;
+}
+.title {
+    color:blue;
+    background-color: black;
+    width:auto;
+    height: 30px;
+    padding: 10px;
+    border-width: 150px;
+    border: solid;
+    border-color: aqua;
+    border-radius: 10px;
+    margin:10px;
+}
+.about {
+    background-color: blueviolet;
+    width:auto;
+    height:80px;
+    padding:15px;
+    border:solid;
+    border-width: 100px;
+    border-color:brown;
+    border-radius:10px;
+    margin:50px;
+}
